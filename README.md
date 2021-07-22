@@ -1,9 +1,9 @@
 # BatchFiles Readme
 Welcome to my <a href="https://github.com/stevenholtman">@stevenholtman</a> repository for CMD Batch Files for Network Administration
 
-I have compiled several of my scripts that I have developed over the years as an IT Administrator to make available conviently for other IT Administrtaors for use by other IT Administrators or people who are interested in learning more about scripts.
+I have compiled several of my scripts that I have developed over the years as a Network Engineer to make available conviently for IT Administrators or anyone who is interested in learning more about powershell and automation.
 
-I configured the scripts to use computer names for domain enviorments, so if you are in a workgroup and want to test them against your local computer just use localhost for the comptuername.
+I configured the scripts to use variables as much as possible to make them universal and/or update for any domain enviorment, so if you are in a workgroup or in a domain enviorment if the script pertains you will be able to quickly start utilizing it.
 
 
 # Get to know me
